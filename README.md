@@ -209,4 +209,3 @@ When `streamlit` service gets an external IP (`LoadBalancer`), open it in browse
 - The tool server uses a heuristic scoring approach for bullet quality.
 - If your bullet has no metrics, the system will encourage placeholders instead of fabricating numbers.
 - For production use, consider adding authentication, rate limiting, centralized logging, and CI/CD.
-# MCP-Resume-Bullet-Rewriting
